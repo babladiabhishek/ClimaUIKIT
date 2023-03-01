@@ -1,4 +1,4 @@
-Weather App
+#Clima App
 Project Overview
 In this project, I created a weather app that displays the current weather condition for a user's current location or a location they manually search for. The app uses the OpenWeatherMap API to retrieve live weather data, and the user interface is designed to support dark mode.
 
